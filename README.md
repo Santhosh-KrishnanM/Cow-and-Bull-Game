@@ -32,3 +32,8 @@ In this game:
 ◦ `index.html` → Main game page  
 ◦ `bootstrap.css` → Local/bootstrap stylesheet  
 ◦ `jquery-3.7.1.min.js` → jQuery library  
+
+
+Link:
+
+https://santhosh-krishnanm.github.io/Cow-and-Bull-Game/
